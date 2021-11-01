@@ -1,4 +1,4 @@
-# goit-markup-hw-01
-hm-html-01
+# goit-markup-hw-02
+hm-html-02
 
-LINK - https://atayanvr.github.io/goit-markup-hw-01/
+LINK - https://atayanvr.github.io/goit-markup-hw-02
